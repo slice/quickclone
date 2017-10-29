@@ -7,6 +7,6 @@ A utility to quickly find and clone popular GitHub repositories.
 ## Install
 
 ```sh
-~> npm i -g @sliceofcode/quickclone
+~> npm i -g slice/quickclone
 ~> quickclone 'query'
 ```

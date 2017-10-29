@@ -1,7 +1,7 @@
 {
-  "name": "@sliceofcode/quickclone",
+  "name": "quickclone",
   "description": "Quickly clone popular GitHub repositories.",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "keywords": [
     "clone",
     "git"
