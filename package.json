@@ -1,0 +1,14 @@
+{
+  "name": "@sliceofcode/quickclone",
+  "description": "Quickly clone popular GitHub repositories.",
+  "keywords": [
+    "clone",
+    "git"
+  ],
+  "license": "MIT",
+  "bin": "./bin/quickclone",
+  "author": "Ryan T. <slice@slice.ws> (https://slice.ws) ",
+  "dependencies": {
+    "snekfetch": "^3.5.8"
+  }
+}
